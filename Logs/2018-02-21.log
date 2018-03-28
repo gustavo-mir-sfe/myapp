@@ -1,0 +1,27 @@
+2018-02-21 20:48:52,535 INFO 
+2018-02-21 20:48:52,536 INFO Inicio de la aplicacion
+2018-02-21 20:48:54,187 INFO 
+2018-02-21 20:48:54,187 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-21 20:48:54,256 INFO Respuesta: {"numeroTurno":276,"letraTicket":"F","fechaTurno":"21-02-2018  20:48:54","tiempoEspera":"-"}
+2018-02-21 20:48:54,266 INFO Inicio de generacion de Ticket
+2018-02-21 20:48:54,285 INFO Fin de generacion de Ticket
+2018-02-21 20:48:58,096 INFO 
+2018-02-21 20:48:58,096 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-21 20:48:58,114 INFO Respuesta: {"numeroTurno":277,"letraTicket":"F","fechaTurno":"21-02-2018  20:48:58","tiempoEspera":"-"}
+2018-02-21 20:48:58,124 INFO Inicio de generacion de Ticket
+2018-02-21 20:48:58,131 INFO Fin de generacion de Ticket
+2018-02-21 20:49:01,967 INFO 
+2018-02-21 20:49:01,969 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-21 20:49:02,003 INFO Respuesta: {"numeroTurno":278,"letraTicket":"F","fechaTurno":"21-02-2018  20:49:01","tiempoEspera":"-"}
+2018-02-21 20:49:02,013 INFO Inicio de generacion de Ticket
+2018-02-21 20:49:02,020 INFO Fin de generacion de Ticket
+2018-02-21 20:49:05,697 INFO 
+2018-02-21 20:49:05,697 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-21 20:49:05,753 INFO Respuesta: {"numeroTurno":279,"letraTicket":"F","fechaTurno":"21-02-2018  20:49:05","tiempoEspera":"-"}
+2018-02-21 20:49:05,763 INFO Inicio de generacion de Ticket
+2018-02-21 20:49:05,773 INFO Fin de generacion de Ticket
+2018-02-21 20:49:09,605 INFO 
+2018-02-21 20:49:09,607 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-21 20:49:09,651 INFO Respuesta: {"numeroTurno":280,"letraTicket":"F","fechaTurno":"21-02-2018  20:49:09","tiempoEspera":"-"}
+2018-02-21 20:49:09,674 INFO Inicio de generacion de Ticket
+2018-02-21 20:49:09,697 INFO Fin de generacion de Ticket

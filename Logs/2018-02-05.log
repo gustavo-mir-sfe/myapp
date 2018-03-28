@@ -1,0 +1,17 @@
+2018-02-05 12:37:54,686 INFO 
+2018-02-05 12:37:54,686 INFO Inicio de la aplicacion
+2018-02-05 12:37:56,305 INFO 
+2018-02-05 12:37:56,305 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-05 12:37:56,436 INFO Respuesta: {"numeroTurno":273,"letraTicket":"F","fechaTurno":"05-02-2018  12:37:56","tiempoEspera":"-"}
+2018-02-05 12:37:56,446 INFO Inicio de generacion de Ticket
+2018-02-05 12:37:56,463 INFO Fin de generacion de Ticket
+2018-02-05 12:38:01,183 INFO 
+2018-02-05 12:38:01,184 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-05 12:38:01,207 INFO Respuesta: {"numeroTurno":274,"letraTicket":"F","fechaTurno":"05-02-2018  12:38:01","tiempoEspera":"-"}
+2018-02-05 12:38:01,217 INFO Inicio de generacion de Ticket
+2018-02-05 12:38:01,226 INFO Fin de generacion de Ticket
+2018-02-05 12:38:05,197 INFO 
+2018-02-05 12:38:05,197 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2018-02-05 12:38:05,224 INFO Respuesta: {"numeroTurno":275,"letraTicket":"F","fechaTurno":"05-02-2018  12:38:05","tiempoEspera":"-"}
+2018-02-05 12:38:05,234 INFO Inicio de generacion de Ticket
+2018-02-05 12:38:05,243 INFO Fin de generacion de Ticket

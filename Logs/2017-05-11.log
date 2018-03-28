@@ -1,0 +1,58 @@
+2017-05-11 21:05:31,799 INFO 
+2017-05-11 21:05:31,799 INFO Inicio de la aplicacion
+2017-05-11 21:05:33,269 INFO 
+2017-05-11 21:05:33,269 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:05:33,326 INFO Respuesta: {"numeroTurno":321,"letraTicket":"P","fechaTurno":"11-05-2017  21:05:33","tiempoEspera":"-"}
+2017-05-11 21:05:33,349 INFO Inicio de generacion de Ticket
+2017-05-11 21:05:33,367 INFO Fin de generacion de Ticket
+2017-05-11 21:05:37,065 INFO 
+2017-05-11 21:05:37,066 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:05:37,094 INFO Respuesta: {"numeroTurno":17,"letraTicket":"F","fechaTurno":"11-05-2017  21:05:37","tiempoEspera":"-"}
+2017-05-11 21:05:37,102 INFO Inicio de generacion de Ticket
+2017-05-11 21:05:37,111 INFO Fin de generacion de Ticket
+2017-05-11 21:05:49,976 INFO 
+2017-05-11 21:05:49,976 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:05:51,980 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CE4470>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:05:53,957 INFO 
+2017-05-11 21:05:53,957 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:05:55,963 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CE4B90>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:06:04,862 INFO 
+2017-05-11 21:06:04,862 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:06:06,878 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CE4D30>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:06:07,934 INFO 
+2017-05-11 21:06:07,936 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:06:09,943 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CE4ED0>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:06:11,740 INFO 
+2017-05-11 21:06:11,740 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:06:13,744 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CF0090>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:06:13,746 INFO 
+2017-05-11 21:06:13,746 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:06:15,756 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CF0250>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:06:20,431 INFO 
+2017-05-11 21:06:20,433 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:06:22,438 INFO Salida por except: HTTPConnectionPool(host='localhost', port=6080): Max retries exceeded with url: /restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06CF03D0>: Failed to establish a new connection: [Errno 10061] No se puede establecer una conexi\xf3n ya que el equipo de destino deneg\xf3 expresamente dicha conexi\xf3n',))
+2017-05-11 21:07:02,977 INFO 
+2017-05-11 21:07:02,979 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:07:03,339 INFO Respuesta: {"numeroTurno":18,"letraTicket":"F","fechaTurno":"11-05-2017  21:07:03","tiempoEspera":"-"}
+2017-05-11 21:07:03,349 INFO Inicio de generacion de Ticket
+2017-05-11 21:07:03,358 INFO Fin de generacion de Ticket
+2017-05-11 21:07:07,187 INFO 
+2017-05-11 21:07:07,187 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:07:07,243 INFO Respuesta: {"numeroTurno":322,"letraTicket":"P","fechaTurno":"11-05-2017  21:07:07","tiempoEspera":"-"}
+2017-05-11 21:07:07,263 INFO Inicio de generacion de Ticket
+2017-05-11 21:07:07,275 INFO Fin de generacion de Ticket
+2017-05-11 21:07:11,364 INFO 
+2017-05-11 21:07:11,365 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=2
+2017-05-11 21:07:11,391 INFO Respuesta: {"numeroTurno":323,"letraTicket":"P","fechaTurno":"11-05-2017  21:07:11","tiempoEspera":"-"}
+2017-05-11 21:07:11,404 INFO Inicio de generacion de Ticket
+2017-05-11 21:07:11,414 INFO Fin de generacion de Ticket
+2017-05-11 21:07:15,108 INFO 
+2017-05-11 21:07:15,108 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:07:15,124 INFO Respuesta: {"numeroTurno":19,"letraTicket":"F","fechaTurno":"11-05-2017  21:07:15","tiempoEspera":"-"}
+2017-05-11 21:07:15,134 INFO Inicio de generacion de Ticket
+2017-05-11 21:07:15,141 INFO Fin de generacion de Ticket
+2017-05-11 21:07:19,076 INFO 
+2017-05-11 21:07:19,078 INFO Solicitud: http://localhost:6080/restTurneroApp/turno/ingresarTurno?idSucursal=1&idTramite=1
+2017-05-11 21:07:19,122 INFO Respuesta: {"numeroTurno":20,"letraTicket":"F","fechaTurno":"11-05-2017  21:07:19","tiempoEspera":"-"}
+2017-05-11 21:07:19,131 INFO Inicio de generacion de Ticket
+2017-05-11 21:07:19,140 INFO Fin de generacion de Ticket
